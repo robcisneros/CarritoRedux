@@ -4,21 +4,21 @@ import classes from "./Products.module.css";
 const DUMMY_PRODUCTS = [
   {
     id: "p1",
-    title: "Pinol",
+    title: "iMac Book Pro 4.5 K",
     price: 25,
-    description: "El limpiapisos",
+    description: "An apple product",
   },
   {
     id: "p2",
-    title: "Marihuanol",
+    title: "Dell Inspiron 7780",
     price: 58,
-    description: "Cremita para todos los remedios",
+    description: "All in one for you lean desktop",
   },
   {
     id: "p3",
-    title: "Escoba 300",
+    title: "HP 205 G4",
     price: 77,
-    description: "Escobiita",
+    description: "HP store product",
   },
 ];
 
